@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+*{
+    font-family: 'GmarketSansMedium';
+    /* 전체 선택자 사용 시, 모든 글자가 해당 폰트로 나오기 때문에, 본문용 폰트로 작성하는 것을 추천
+
+        제목용 폰트는 따로 class 를 생성해서 설정하는 것을 추천
+    */
+    
+}
